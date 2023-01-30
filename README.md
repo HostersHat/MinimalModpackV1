@@ -2,7 +2,7 @@
 Minimal Minecraft Modpack V1 for personal use.  
 Last Updated 1/29/2023
 
-#Installation  
+# Installation  
 
 Using ATlauncher:  
 Click to "Vanilla Packs"  
